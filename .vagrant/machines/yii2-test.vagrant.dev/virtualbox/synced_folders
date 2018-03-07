@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"type":"virtualbox","guestpath":"/vagrant","hostpath":"/var/www/yii2-test/vagrant","disabled":false,"__vagrantfile":true},"/var/www/yii2-test.loc":{"type":"virtualbox","guestpath":"/var/www/yii2-test.loc","hostpath":"/var/www/yii2-test","disabled":false,"__vagrantfile":true}}}
